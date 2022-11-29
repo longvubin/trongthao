@@ -516,16 +516,6 @@ body.dark-theme {
   margin: 0;
 }
 
-body {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  position: relative;
-  min-height: 100vh;
-  font-family: Hack, monospace;
-}
-
 div {
   color: #727272;
   text-align: center;
