@@ -70,3 +70,7 @@ console.log(
     'font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;font-size:24px;color:#00bbee;-webkit-text-fill-color:#00bbee;-webkit-text-stroke: 1px #00bbee;',
     "font-size:12px;color:#999999;"
   );
+function toggleMenu(e) {
+  e.classList.toggle("active");
+  document.querySelector("aside").classList.toggle("active");
+}
