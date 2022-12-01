@@ -1,4 +1,4 @@
-# Nguyễn Trọng Thảo - Profile
+# Trịnh Long Vũ - Profile
 ```
-•Code by Nguyễn Trọng Thảo 
+•Code by Trịnh Long Vux
 ```
